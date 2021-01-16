@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mask-Sensitive", "Mask-Sensitive\Mask-Sensitive.csproj", "{4F18B7C9-33B4-44A3-985D-0E40C77648CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F18B7C9-33B4-44A3-985D-0E40C77648CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F18B7C9-33B4-44A3-985D-0E40C77648CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F18B7C9-33B4-44A3-985D-0E40C77648CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F18B7C9-33B4-44A3-985D-0E40C77648CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA25ED45-74AB-4F33-B5B1-E3E46D288753}
+	EndGlobalSection
+EndGlobal
